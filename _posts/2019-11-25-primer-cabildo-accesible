@@ -8,9 +8,12 @@ tags:
   - inclusión
 last_modified_at: 2019-11-25T14:25:52-05:00
 ---
+<!-- 16:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Hbi3MuKRtVo"></iframe>
+</div>
 
 El encuentro reunió a alrededor de 30 personas en la Escuela de Arquitectura y Diseño donde se abordaron los desafíos que enfrenta nuestro país para avanzar en una agenda social más transversal.
-
 
 En el nuevo Edificio Matta 79 de la Escuela de Arquitectura y Diseño de la PUCV se realizó recientemente el Primer Cabildo Abierto Accesible, encuentro que reunió a alrededor de 30 personas y que fue organizado por el Núcleo en Accesibilidad e Inclusión de nuestra Casa de Estudios.
 
