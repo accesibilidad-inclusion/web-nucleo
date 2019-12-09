@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 
 lang: es-ES
-title: Accesibilidad e Inclusión
+title: Accesibilidad & Inclusión
 email: accesibilidad-inclusion@ead.cl
 description: Núcleo de Accesibilidad e Inclusión PUCV
-slogan: Promoviendo espacios más inclusivos
+slogan: Promoviendo espacios inclusivos
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://accesibilidad-inclusion.github.io/website # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
