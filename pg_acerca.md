@@ -7,11 +7,22 @@ permalink: /acerca
 
 <div class="logo" style='margin-bottom:2em'><img src="{{ site.baseurl }}/assets/img/logo-pucv.svg" alt="Pontificia Universidad Católica de Valparaíso"></div>
 
-<p><strong>+Accesible</strong> nace desde un proyecto de investigación multidisciplinario en la Pontificia Universidad Católica de Valparaíso cuya característica principal fue la incorporación de personas adultas con discapacidad intelectual al equipo de investigación. A raiz de esta experiencia, que se centró en el desarrollo de apoyos tecnológicos para la promoción de la vida independiente, surge la iniciativa de crear una empresa que permita transferir este conocimiento fruto de más de dos años de trabajo hacia las empresas y servicios públicos que necesiten volver sus espacios, productos y transacciones más accesibles al público general. </p>
 
-<!-- 16:9 aspect ratio -->
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hwyLiTMD-vo"></iframe>
-</div>
+Este núcleo se plantea nuevos espacios de trabajo alineados al permanente cuestionamiento y rediseño del medioambiente construido (built environment) como configuración y permanente disputa de la cohabitación humana y la tecnología. Nuestro ámbito de trabajo engloba  políticas públicas,  urbanismo, arquitectura y diseño como “entorno construido” y su relación con las ciencias aplicadas de la ingeniería,  educación, salud y ciencias jurídicas.
 
-<p>Ofrecemos un servicio integral a empresas, públicas y privadas, evaluando sus productos y servicios desde el punto de vista de la accesibilidad cognitiva. Esta evaluación comprende observación del entorno, visitas en diferentes horarios y  entrevistas a todos los niveles de jerarquización del servicio que  permite elaborar un informe de recomendaciones y soluciones adecuadas a las características de la empresa.</p>
+El núcleo desarrolla proyectos de arquitectura, diseño,  ingeniería, educación  y salud insertos en modelos de aplicación que ofrezcan solución a problemáticas actuales de la sociedad tales como modelos con sostenibilidad social y participación de grupos históricamente excluidos.
+
+Su foco en accesibilidad apunta al desarrollo de criterios, políticas y marcos conceptuales para el desarrollo de entornos más humanos e inclusivos, en resonancia a los desafíos que nos plantea la transición económica del postcapitalismo, las nuevas economías con nuevos modelos de valor para el trabajo de las personas y su proyección de bienestar a futuro. Trabajamos a partir de los nuevos paradigmas tecnológicos que nos plantean las tecnologías ubicuas, distribuidas e inteligentes en la reimaginación de los futuros posibles.
+
+### Objetivos 
+1. Generar conocimiento interdisciplinario para ofrecer soluciones a problemáticas de la sociedad actual desde modelos de sostenibilidad e inclusión social y accesibilidad universal.
+2. Establecer un modelo de investigación interdisciplinaria construido desde la cohabitación humana y la tecnología, que promueva la participación de las personas en el diseño del medioambiente.
+3. Diseñar propuestas de innovación para el desarrollo inclusivo desde el ámbito de las ingenierías, las ciencias sociales (educación y lenguaje), la salud y las ciencias jurídicas, que potencien la participación de las personas en la generación de políticas públicas sobre urbanismo, arquitectura y diseño.
+
+### Áreas de Investigación
+
+- Educación e Inclusión  →  modelos y apoyos a la inclusión
+- Diseño e Ingeniería →  Apoyos tecnológicos, diseño universal
+- Arquitectura y Urbanismo → Movilidad y Hospitalidad 
+- Derecho y Políticas Públicas → Modelos de desarrollo humano, Consideraciones en el ámbito de los derechos
+- Salud → Modelos y productos para el aprendizaje del autocuidado

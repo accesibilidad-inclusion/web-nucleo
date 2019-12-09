@@ -5,12 +5,24 @@ permalink: /nosotros
 
 ---
 
-<h2>Equipo</h2>
+<h2>Investigadores</h2>
 
-<p>Nuestro equipo está conformado por educadoras diferenciales, diseñadores e ingenieros. Y lo más importante, un grupo asesor compuesto por personas con discapacidad intelectual, quienes detectan las tareas críticas, elaboran los paso-a-paso de cada una de ellas y realizan las primeras sugerencias de mejoras, debido a que son expertos por experiencia.</p>
+1. Dra. Vanessa Vega Córdova, Escuela de Pedagogía 
+2. Dr. David Luza Cornejo, Escuela de Arquitectura y Diseño
+3. MDes Herbert Spencer González, Escuela de Arquitectura y Diseño
+4. Dr. Daniel Yunge Sepúlveda (daniel.yunge@pucv.cl), Escuela de Ingeniería Eléctrica
+5. Dra. Marcela Jarpa (marcela.jarpa@pucv.cl)  Escuela de Pedagogía, 
+6. Mg. Katherine Exss (kexss@ead.cl). Escuela de Arquitectura y Diseño
+7. Mg. Andrea Montecinos (andrea.montecinos@pucv.cl). Escuela de Derecho.
 
-<p>Nuestros clientes son las empresas públicas o privadas que quieran mejorar la experiencia de sus usuarios, mejorar sus tiempos de transacciones o simplemente optimizar las tareas o transacciones más críticas en sus servicios, y de esta manera, promover una mayor participación de todos y todas.</p>
+<h3>Red Internacional</h3>
 
+1. Dra. Maribel Cruz Ortiz, Facultad de Enfermería, Universidad Autónoma de San Luis Potosí. México
+2. Dra. Carmen Pérez Rodríguez, Facultad de Enfermería, Universidad Autónoma de San Luis Potosí. México
+3. Dra. Cristina Jenaro Río, Facultad de Psicología. Universidad de Salamanca. España.
+4. Dra. Noelia Flores Robaina,Facultad de Psicología. Universidad de Salamanca. España
+
+<!--
 <div class ='grid'>
 	<div class="col">
 		<img src="{{ site.baseurl }}/assets/img/perfil-paulina.png" alt="Paulina Carrasco" class="img-profile">
@@ -66,4 +78,4 @@ permalink: /nosotros
 	</div>
 </div>
 
-
+-->
