@@ -7,14 +7,14 @@ permalink: /nosotros
 
 <h2>Investigadores</h2>
 
-- Dra. Vanessa Vega Córdova, Escuela de Pedagogía 
-- Dr. David Luza Cornejo, Escuela de Arquitectura y Diseño
-- MDes Herbert Spencer González, Escuela de Arquitectura y Diseño
-- Dr. Daniel Yunge Sepúlveda (daniel.yunge@pucv.cl), Escuela de Ingeniería Eléctrica
-- Dra. Marcela Jarpa (marcela.jarpa@pucv.cl)  Escuela de Pedagogía
-- Mg. Katherine Exss (kexss@ead.cl). Escuela de Arquitectura y Diseño
-- Mg. Andrea Montecinos (andrea.montecinos@pucv.cl). Escuela de Derecho
-- Dra. Izaskun Álvarez-Aguado, Investigadora Posdoctoral
+- Dra. **Vanessa Vega Córdova**, Escuela de Pedagogía 
+- Dr. **David Luza Cornejo**, Escuela de Arquitectura y Diseño
+- MDes **Herbert Spencer González**, Escuela de Arquitectura y Diseño
+- Dra. **Marcela Jarpa Azagra**, Escuela de Pedagogía
+- Mg. **Katherine Exss Cid**, Escuela de Arquitectura y Diseño
+- Mg. **Andrea Montecinos Tota**, Escuela de Derecho
+- Dr. **Daniel Yunge Sepúlveda**, Escuela de Ingeniería Eléctrica
+- Dra. **Izaskun Álvarez-Aguado**, Investigadora Posdoctoral
 
 <h3>Red Internacional</h3>
 
