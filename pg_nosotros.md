@@ -7,20 +7,21 @@ permalink: /nosotros
 
 <h2>Investigadores</h2>
 
-1. Dra. Vanessa Vega Córdova, Escuela de Pedagogía 
-2. Dr. David Luza Cornejo, Escuela de Arquitectura y Diseño
-3. MDes Herbert Spencer González, Escuela de Arquitectura y Diseño
-4. Dr. Daniel Yunge Sepúlveda (daniel.yunge@pucv.cl), Escuela de Ingeniería Eléctrica
-5. Dra. Marcela Jarpa (marcela.jarpa@pucv.cl)  Escuela de Pedagogía, 
-6. Mg. Katherine Exss (kexss@ead.cl). Escuela de Arquitectura y Diseño
-7. Mg. Andrea Montecinos (andrea.montecinos@pucv.cl). Escuela de Derecho.
+- Dra. Vanessa Vega Córdova, Escuela de Pedagogía 
+- Dr. David Luza Cornejo, Escuela de Arquitectura y Diseño
+- MDes Herbert Spencer González, Escuela de Arquitectura y Diseño
+- Dr. Daniel Yunge Sepúlveda (daniel.yunge@pucv.cl), Escuela de Ingeniería Eléctrica
+- Dra. Marcela Jarpa (marcela.jarpa@pucv.cl)  Escuela de Pedagogía
+- Mg. Katherine Exss (kexss@ead.cl). Escuela de Arquitectura y Diseño
+- Mg. Andrea Montecinos (andrea.montecinos@pucv.cl). Escuela de Derecho
+- Dra. Izaskun Álvarez-Aguado, Investigadora Posdoctoral
 
 <h3>Red Internacional</h3>
 
-1. Dra. Maribel Cruz Ortiz, Facultad de Enfermería, Universidad Autónoma de San Luis Potosí. México
-2. Dra. Carmen Pérez Rodríguez, Facultad de Enfermería, Universidad Autónoma de San Luis Potosí. México
-3. Dra. Cristina Jenaro Río, Facultad de Psicología. Universidad de Salamanca. España.
-4. Dra. Noelia Flores Robaina,Facultad de Psicología. Universidad de Salamanca. España
+- Dra. Maribel Cruz Ortiz, Facultad de Enfermería, Universidad Autónoma de San Luis Potosí. México
+- Dra. Carmen Pérez Rodríguez, Facultad de Enfermería, Universidad Autónoma de San Luis Potosí. México
+- Dra. Cristina Jenaro Río, Facultad de Psicología. Universidad de Salamanca. España.
+- Dra. Noelia Flores Robaina,Facultad de Psicología. Universidad de Salamanca. España
 
 <!--
 <div class ='grid'>
