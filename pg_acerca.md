@@ -1,5 +1,5 @@
 ---
-title: ¿qué es?
+title: Acerca
 layout: about
 permalink: /acerca
 
@@ -7,12 +7,11 @@ permalink: /acerca
 
 <div class="logo" style='margin-bottom:2em'><img src="{{ site.baseurl }}/assets/img/logo-pucv.svg" alt="Pontificia Universidad Católica de Valparaíso"></div>
 
+Este núcleo multidisciplinario de investigación se plantea como espacio de trabajo la relación del ser humano con el medioambiente construído. Desde una mirada crítica e inclusiva examinamos los productos, procesos, espacios y servicios para imaginar y proponer formas más inclusivas y accesibles que aseguren la mayor participación posible. Nuestro ámbito de trabajo engloba políticas públicas, urbanismo, arquitectura y diseño como todo el “entorno construido” y su relación con las ciencias aplicadas de la ingeniería, educación, salud y ciencias jurídicas.
 
-Este núcleo se plantea nuevos espacios de trabajo alineados al permanente cuestionamiento y rediseño del medioambiente construido (built environment) como configuración y permanente disputa de la cohabitación humana y la tecnología. Nuestro ámbito de trabajo engloba  políticas públicas,  urbanismo, arquitectura y diseño como “entorno construido” y su relación con las ciencias aplicadas de la ingeniería,  educación, salud y ciencias jurídicas.
+Nuestro núcleo desarrolla proyectos de arquitectura, diseño, ingeniería, educación y salud insertos en modelos de aplicación que ofrezcan solución a problemáticas actuales de la sociedad tales como modelos con sostenibilidad social y participación de grupos históricamente excluidos.
 
-El núcleo desarrolla proyectos de arquitectura, diseño,  ingeniería, educación  y salud insertos en modelos de aplicación que ofrezcan solución a problemáticas actuales de la sociedad tales como modelos con sostenibilidad social y participación de grupos históricamente excluidos.
-
-Su foco en accesibilidad apunta al desarrollo de criterios, políticas y marcos conceptuales para el desarrollo de entornos más humanos e inclusivos, en resonancia a los desafíos que nos plantea la transición económica del postcapitalismo, las nuevas economías con nuevos modelos de valor para el trabajo de las personas y su proyección de bienestar a futuro. Trabajamos a partir de los nuevos paradigmas tecnológicos que nos plantean las tecnologías ubicuas, distribuidas e inteligentes en la reimaginación de los futuros posibles.
+Nuestro foco en accesibilidad apunta al desarrollo de criterios, políticas y marcos conceptuales para el desarrollo de entornos más humanos e inclusivos, en resonancia a los desafíos que nos plantea la transición económica del postcapitalismo, las nuevas economías con nuevos modelos de valor para el trabajo de las personas y su proyección de bienestar a futuro. Trabajamos a partir de los nuevos paradigmas tecnológicos que nos plantean las tecnologías ubicuas, distribuidas e inteligentes en la reimaginación de los futuros posibles.
 
 ### Objetivos 
 1. Generar conocimiento interdisciplinario para ofrecer soluciones a problemáticas de la sociedad actual desde modelos de sostenibilidad e inclusión social y accesibilidad universal.
