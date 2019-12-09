@@ -15,6 +15,6 @@ Pero ¿Cómo diseñamos para la inclusión? Esto implica cambios en las metodolo
 
 En el contexto del día internacional del diseño de interacción, nuestros investigadores Vanessa Vega y Herbert Spencer expusieron a la comunidad local [IXDA Viña del Mar](https://www.ixda.cl/) la mirada que fundamenta el desarrollo de espacios y servicios más inclusivos, compartiendo el aprendizaje derivado de la investigación que llevan a cabo al interior de la universidad.
 
-![Presentación del Equipo +accesible]({{ site.baseurl}}/assets/img/posts/ixda-2018.png)
+![Presentación del Equipo]({{ site.baseurl}}/assets/img/posts/ixda-2018.png)
 
 Si te interesa conocer la presentación realizada, puedes consultarla [acá](https://docs.google.com/presentation/d/1C-UKAkLAKwsWSjhLgfwToMgeEP9jJOmECWf_95hpDyc/edit?usp=sharing)

@@ -1,5 +1,5 @@
 ---
-title: "Más Accesibles en San Luis Potosí, México"
+title: "Investigadores en San Luis Potosí, México"
 categories:
   - Entrevista
 tags:
