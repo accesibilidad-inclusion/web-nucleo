@@ -1,9 +1,6 @@
-# [+accesible][1]
+# Núcleo de Accesibilidad e Inclusión
 
-Sitio web corporativo de **+accesible**, consultora de accesibilidad cognitiva.
-
-
-[1]: http://mas-accesible.github.io/website/
+Sitio web corporativo del **núcleo de investigación Accesibilidad e Inclusión**, Pontificia Universidad Católica de Valparaíso
 
 ------
 
@@ -51,5 +48,3 @@ any changes.
 - [Jekyll](http://jekyllrb.com/)
 - [Susy](http://susy.oddbird.net/)
 - [Breakpoint](http://breakpoint-sass.com/)
-
-

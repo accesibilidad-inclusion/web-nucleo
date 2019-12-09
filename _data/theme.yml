@@ -12,7 +12,7 @@ t:
   site_search: "Búsqueda global"
   results_found: "Resultado(s):"
   search_placeholder_text: "escribe acá..."
-  home: "+A"
+  home: "Núcleo de Accesibilidad e Inclusión"
   newer: "recientes"
   older: "antiguos"
   email: "Correo"
@@ -26,7 +26,7 @@ t:
 
 # Google Fonts
 google_fonts:
-  - name: "Quicksand"
+  - name: "Lato"
     weights: "300,400,500,700"
 
 # Link to specific internal pages in the navigation.
