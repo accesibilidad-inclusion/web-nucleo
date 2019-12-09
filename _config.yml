@@ -15,17 +15,17 @@
 # in the templates via {{ site.myvariable }}.
 
 lang: es-ES
-title: más accesible
-email: masaccesible@ead.cl
-description: la consultora chilena de accesibilidad universal
-slogan: promoviendo espacios más inclusivos
+title: Accesibilidad e Inclusión
+email: accesibilidad-inclusion@ead.cl
+description: Núcleo de Accesibilidad e Inclusión PUCV
+slogan: Promoviendo espacios más inclusivos
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: https://www.masaccesible.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://accesibilidad-inclusion.github.io/website # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name: +A más accesible
-  twitter: masaccesible
-twitter_username: sermasaccesible
-github_username: mas-accesible
+  name: Núcleo de Accesibilidad e Inclusión PUCV
+  twitter: accesibilidad-inclusion
+twitter_username: accesibilidad-inclusion
+github_username: accesibilidad-inclusion
 instagram_username: sermasaccesible
 logo: /assets/img/logo.svg
 search: true # true, false (default)
