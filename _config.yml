@@ -23,10 +23,10 @@ baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://accesibilidad-inclusion.github.io/website # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Núcleo de Accesibilidad e Inclusión PUCV
-  twitter: accesibilidad-inclusion
-twitter_username: accesibilidad-inclusion
-github_username: accesibilidad-inclusion
-instagram_username: sermasaccesible
+  twitter:
+twitter_username:
+github_username:
+instagram_username:
 logo: /assets/img/logo.svg
 search: true # true, false (default)
 search_full_content: true # true, false (default)
