@@ -12,7 +12,7 @@ t:
   site_search: "Búsqueda global"
   results_found: "Resultado(s):"
   search_placeholder_text: "escribe acá..."
-  home: "Núcleo de Accesibilidad e Inclusión"
+  home: "A&I"
   newer: "recientes"
   older: "antiguos"
   email: "Correo"
@@ -36,4 +36,6 @@ google_fonts:
 navigation_pages:
   - pg_acerca.md
   - pg_nosotros.md
+    pg_apps.md
+    
 
