@@ -1,5 +1,5 @@
 ---
-title: política de privacidad
+title: Política de privacidad
 layout: page
 permalink: /politica-de-privacidad
 
