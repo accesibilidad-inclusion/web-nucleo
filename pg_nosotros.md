@@ -1,5 +1,5 @@
 ---
-title: nosotros
+title: Nosotros
 layout: page
 permalink: /nosotros
 
