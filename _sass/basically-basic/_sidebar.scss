@@ -82,7 +82,9 @@
   }
 
   .menu {
-    @include fluid-type($min-vw, $max-vw, 24px, 48px);
+    // @include fluid-type($min-vw, $max-vw, 24px, 48px);
+    @include fluid-type($min-vw, $max-vw, 12px, 28px);
+    text-transform: uppercase;
     position: relative;
     margin-bottom: 1.5rem;
     padding-bottom: 0.5rem;
