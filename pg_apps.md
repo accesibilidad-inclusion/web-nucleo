@@ -23,13 +23,23 @@ permalink: /apps
 
 Teniendo la accesibilidad cognitiva de los espacios y servicios públicos como foco, hemos codiseñado la aplicación <strong>SER + accesible</strong> junto a nuestro grupo asesor. Con ella queremos permitir a todos evaluar la accesibilidad cognitiva de los servicios de la ciudad.
 
-<div class="button">
-	<a href='https://play.google.com/store/apps/details?id=app.sermasaccesible&hl=es' title='Ser+Accesible en Google Play'>Android App</a>
-</div>
+<table>
+	<tr>
+		<td width='50%'>
+			<div class="button">
+				<a href='https://play.google.com/store/apps/details?id=app.sermasaccesible&hl=es' title='Ser+Accesible en Google Play'>Android App</a>
+			</div>
+		</td>
+		<td width='50%'>
+			<div class="button">
+				<a href='https://apps.apple.com/cl/app/ser-accesible/id1483483140' title='Ser+Accesible en Apple App Store'>iOS App</a>
+			</div>
+		</td>
+	</tr>
+</table>
 
-<div class="button">
-	<a href='https://apps.apple.com/cl/app/ser-accesible/id1483483140' title='Ser+Accesible en Apple App Store'>iOS App</a>
-</div>
+
+
 
 <div class='thanks'>
 

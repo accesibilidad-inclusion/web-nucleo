@@ -18,10 +18,10 @@ permalink: /nosotros
 
 <h3>Red Internacional</h3>
 
-- Dra. Maribel Cruz Ortiz, Facultad de Enfermería, Universidad Autónoma de San Luis Potosí. México
-- Dra. Carmen Pérez Rodríguez, Facultad de Enfermería, Universidad Autónoma de San Luis Potosí. México
-- Dra. Cristina Jenaro Río, Facultad de Psicología. Universidad de Salamanca. España.
-- Dra. Noelia Flores Robaina,Facultad de Psicología. Universidad de Salamanca. España
+- Dra. **Maribel Cruz Ortiz**, Facultad de Enfermería, Universidad Autónoma de San Luis Potosí. México
+- Dra. **Carmen Pérez Rodríguez**, Facultad de Enfermería, Universidad Autónoma de San Luis Potosí. México
+- Dra. **Cristina Jenaro Río**, Facultad de Psicología. Universidad de Salamanca. España.
+- Dra. **Noelia Flores Robaina**,Facultad de Psicología. Universidad de Salamanca. España
 
 <!--
 <div class ='grid'>
