@@ -1,15 +1,16 @@
 <footer id="footer" class="site-footer">
   <div class="inner">
     <div class="copyright">
-        <img class="logo-pucv" src="{{ site.baseurl }}/assets/img/logo-pucv-bn.svg"
-              alt="Pontificia Universidad Católica de Valparaíso">
-        <br>
       {% if site.copyright %}
         {{ site.copyright | markdownify }}
       {% else %}
         <p>{% if site.logo %}<img src="{{ site_logo }}" alt="{{ site.title }}" class="site-logo">{% endif %} <span class='brand'>{{ site.title }}</span> {{ site.time | date: '%Y' }}{% if site.slogan %} ~ <span class="slogan">{{ site.slogan }}</span> {% endif %}
         </p>
       {% endif %}
+      <div class="logo-pucv">
+        <img src="{{ site.baseurl }}/assets/img/logo-pucv-bn.svg"
+          alt="Pontificia Universidad Católica de Valparaíso">
+      </div>
     </div>
   </div>
 </footer>

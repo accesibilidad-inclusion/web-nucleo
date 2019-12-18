@@ -43,9 +43,8 @@
     color: black;
     text-align: center;
     @include fluid-type($min-vw, $max-vw, 10px, 15px);
-    img.logo-pucv{
-      width: 25%;
-      max-width: 240px;
-    }
+      .logo-pucv{
+          width: 30%;
+      }
   }
 }
