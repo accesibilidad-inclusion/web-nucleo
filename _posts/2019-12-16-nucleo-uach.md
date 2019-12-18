@@ -21,4 +21,4 @@ En esta ocasión el equipo presentó **Un Abordaje Interdisciplinario a la Vida 
 
 Desde una introducción a la comprensión multidimensional de la vida independiente, se expuso la situación actual de la capacidad jurídica de las personas con DI. Y desde este fundamento elaboramos sobre el concepto de autodeterminación y cómo lo trabajamos desde el prisma de la accesibilidad cognitiva y el codiseño, visualizando el desarrollo de apoyos tecnológicos a la vida independiente; y desde ahí, comprendermos el posicionamiento discursivo de las personas con DI. 
 
-De esta forma mostramos cómo las disciplinas de la Pedagogía, el Derecho, el Diseño y la Lingüística convergen de forma sinérgica hacia la construcción de un nuevo abordaje para los temas de inclusión y discapacidad, proyectando e imaginando nuevos futuros posibles.
+De esta forma mostramos cómo las disciplinas de  Pedagogía, Derecho, Diseño y Lingüística convergen de forma sinérgica hacia la construcción de un nuevo abordaje para los temas de inclusión y discapacidad, proyectando e imaginando nuevos futuros posibles.
