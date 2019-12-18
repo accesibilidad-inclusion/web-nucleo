@@ -38,13 +38,12 @@
   }
 
   .copyright {
-    // font-family: $monospace-font-family;
+    .logo-pucv {
+      width: 30%;
+    }
     font-weight: 300;
     color: black;
     text-align: center;
     @include fluid-type($min-vw, $max-vw, 10px, 15px);
-      .logo-pucv{
-          width: 30%;
-      }
   }
 }
