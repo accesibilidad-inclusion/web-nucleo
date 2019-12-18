@@ -36,18 +36,21 @@
     width: 2em;
     height: auto;
   }
-}
 
-.copyright {
-  // font-family: $monospace-font-family;
-  font-weight: 300;
-  color: black;
-  text-align: center;
-  @include fluid-type($min-vw, $max-vw, 10px, 15px);
-  .logo{
-    width: 25%;
-    max-width: 120px;
+  .copyright {
+    // font-family: $monospace-font-family;
+    font-weight: 300;
+    color: black;
+    text-align: center;
+    @include fluid-type($min-vw, $max-vw, 10px, 15px);
+    .logo{
+      text-align: center;
+      width: 25%;
+      max-width: 240px;
+      img{
+        width: 100%;
+      }
+    }
   }
+
 }
-
-
