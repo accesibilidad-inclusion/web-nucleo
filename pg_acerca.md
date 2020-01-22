@@ -21,7 +21,7 @@ Nuestro foco en accesibilidad apunta al desarrollo de criterios, políticas y ma
 ### Áreas de Investigación
 
 - Educación e Inclusión  →  modelos y apoyos a la inclusión
-- Diseño e Ingeniería →  Apoyos tecnológicos, diseño universal
+- Diseño e Ingeniería →  Apoyos tecnológicos, Diseño Universal
 - Arquitectura y Urbanismo → Movilidad y Hospitalidad 
-- Derecho y Políticas Públicas → Modelos de desarrollo humano, Consideraciones en el ámbito de los derechos
+- Derecho y Políticas Públicas → Modelos de desarrollo humano, consideraciones en el ámbito de los derechos
 - Salud → Modelos y productos para el aprendizaje del autocuidado
