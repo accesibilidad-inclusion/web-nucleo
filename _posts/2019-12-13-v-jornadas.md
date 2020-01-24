@@ -12,12 +12,14 @@ last_modified_at: 2019-12-13T09:30:00-05:00
 
 A continuación les compartimos 2 ponencias presentadas por investigadores de nuestro núcleo
 
-## Vida Independiente y Discapacidad Intelectual
+#### Vida Independiente y Discapacidad Intelectual
+Presentan Vanessa Vega y Herbert Spencer
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Bxe7oebvuf8"></iframe>
 </div>
 
-## Envejeciendo con Discapacidad Intelectual ¿qué esperar?
+#### Envejeciendo con Discapacidad Intelectual ¿qué esperar?
+Presenta Izaskun Álvarez-Aguado
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XzZOM2rTKZo"></iframe>
 </div>
