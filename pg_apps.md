@@ -5,13 +5,6 @@ permalink: /apps
 
 ---
 <h2>Algunas herramientas que hemos creado</h2>
-<p class='jumbo'>
-<div style='text-align:center'>
-<script src="https://liberapay.com/accesibilidad-inclusion/widgets/button.js"></script>
-<noscript><a href="https://liberapay.com/accesibilidad-inclusion/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript></div>
-
-Este núcleo confía en las donaciones de la comunidad para mantener los diversos proyectos como iniciativas públicas de código abierto.
-</p>
 
 <div class='logo'>
 	<img src='{{ site.baseurl }}/assets/img/logo-win.svg' title='WIN: What I need' >
@@ -46,10 +39,16 @@ Teniendo la accesibilidad cognitiva de los espacios y servicios públicos como f
 </table>
 
 
+<p class='jumbo'>
+<div style='text-align:center'>
+<script src="https://liberapay.com/accesibilidad-inclusion/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/accesibilidad-inclusion/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript></div><br>
+
+Este núcleo confía en las donaciones de la comunidad para mantener los diversos proyectos como iniciativas públicas de código abierto.
+</p>
 
 
 <div class='thanks'>
-
 <a class='logo' href='https://bloom-ux.com'>
 	<img src='{{ site.baseurl }}/assets/img/logo-bloom.svg' title='Bloom - User Experience'>
 </a>
