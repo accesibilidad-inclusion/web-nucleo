@@ -6,6 +6,11 @@ permalink: /apps
 ---
 <h2>Algunas herramientas que hemos creado</h2>
 
+<script src="https://liberapay.com/accesibilidad-inclusion/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/accesibilidad-inclusion/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
+Este núcleo confía en las donaciones de la comunidad para mantener los diversos proyectos como iniciativas públicas de código abierto.
+
 <div class='logo'>
 	<img src='{{ site.baseurl }}/assets/img/logo-win.svg' title='WIN: What I need' >
 </div>

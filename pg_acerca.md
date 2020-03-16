@@ -25,3 +25,8 @@ Nuestro foco en accesibilidad apunta al desarrollo de criterios, políticas y ma
 - Arquitectura y Urbanismo → Movilidad y Hospitalidad 
 - Derecho y Políticas Públicas → Modelos de desarrollo humano, consideraciones en el ámbito de los derechos
 - Salud → Modelos y productos para el aprendizaje del autocuidado
+
+<script src="https://liberapay.com/accesibilidad-inclusion/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/accesibilidad-inclusion/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
+Este núcleo confía en las donaciones de la comunidad para mantener los diversos proyectos como iniciativas públicas de código abierto.
