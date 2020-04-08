@@ -18,9 +18,9 @@ Esta pregunta es recurrente en las conversaciones con amigos y familiares. Este 
 
 Pero, ¿cómo es este tiempo para las familias y personas que conviven a diario con personas que presentan algún tipo de discapacidad, en especial discapacidad intelectual o del desarrollo?
 
- Conocer la realidad de quienes lo viven a diario es fundamental para poder comprender el impacto. Agradezco la generosidad de mi amiga Loreto, madre de un niño de 11 años con espectro autista.
+Conocer la realidad de quienes lo viven a diario es fundamental para poder comprender el impacto. Agradezco la generosidad de mi amiga Loreto, madre de un niño de 11 años con espectro autista.
 
-”Estos días de cuarentena no han sido fáciles, los cambios de rutina,el corte abrupto de las clases, la sensación de incertidumbre por no saber con certeza cómo seguirá esta pandemia en nuestro país, abruman a cualquiera. Multiplica por diez esa sensación en una persona del espectro, pero como familia más que preocuparnos tenemos que ocuparnos. 
+> Estos días de cuarentena no han sido fáciles, los cambios de rutina, el corte abrupto de las clases, la sensación de incertidumbre por no saber con certeza cómo seguirá esta pandemia en nuestro país, abruman a cualquiera. Multiplica por diez esa sensación en una persona del espectro, pero como familia más que preocuparnos tenemos que ocuparnos. 
 
 Así observamos que por todos lados aparecen las orientaciones de cómo llevar mejor este periodo y qué hacer.  Todas son desde una perspectiva profesional, que es de mucha ayuda, pero las familias también debemos confiar en nuestros hijos y lo que ellos desean. Por eso se ha invertido en terapias y acompañamientos, para otorgar las herramientas necesarias que permitan el desarrollo y autonomía y así poder sobrellevar mejor estas circunstancias.
 
