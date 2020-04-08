@@ -8,9 +8,9 @@ tags:
   - cuarentena
 last_modified_at: 2020-04-06T14:25:52-05:00
 ---
-¿Cómo estamos pasando este tiempo de quedarnos en casa?
+![El Grupo Asesor de Investigación]({{ site.baseurl}}/assets/img/posts/foto-conversatorio.jpg)
 
-![El Grupo Asesor de Investigación](../assets/img/posts/foto-conversatorio.jpg)
+¿Cómo estamos pasando este tiempo de quedarnos en casa?
 
 Y tú, ¿cómo estás viviendo y conviviendo en estos tiempos?
 
