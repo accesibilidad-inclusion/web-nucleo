@@ -17,4 +17,4 @@ En el contexto del día internacional del diseño de interacción, nuestros inve
 
 ![Presentación del Equipo]({{ site.baseurl}}/assets/img/posts/ixda-2018.png)
 
-Si te interesa conocer la presentación realizada, puedes consultarla [acá](https://docs.google.com/presentation/d/1C-UKAkLAKwsWSjhLgfwToMgeEP9jJOmECWf_95hpDyc/edit?usp=sharing)
+Si te interesa conocer la presentación realizada, puedes consultarla [acá](https://docs.google.com/presentation/d/1C-UKAkLAKwsWSjhLgfwToMgeEP9jJOmECWf_95hpDyc/edit?usp=sharing).
