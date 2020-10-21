@@ -13,6 +13,7 @@ last_modified_at: 2020-10-18T11:25:52-05:00
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/E6lWMody1vs"></iframe>
 </div>
 
+
 Video del Webinar Vida con Apoyos en el derecho a la vida independiente, en el que la Dra María Pallisera de la Universidad de Girona. 
 
 En este de destaca el criterio de Rechazo Cero,  vamos por la participación de todas y todoseño a las personas con discapacidad intelectual. 
