@@ -6,7 +6,7 @@ tags:
   - seminario
   - investigación
   - inclusión
-last_modified_at: 2020-06-18T11:25:52-05:00
+last_modified_at: 2020-10-18T11:25:52-05:00
 ---
 <!-- 16:9 aspect ratio -->
 <div class="embed-responsive embed-responsive-16by9">
