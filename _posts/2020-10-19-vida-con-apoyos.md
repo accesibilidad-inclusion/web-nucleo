@@ -1,5 +1,5 @@
 ---
-title: "Webinar: "Vida con apoyos" Avanzar en el derecho a la vida independiente"
+title: "Webinar: Vida con apoyos: Avanzar en el derecho a la vida independiente"
 categories:
   - Eventos
 tags:
