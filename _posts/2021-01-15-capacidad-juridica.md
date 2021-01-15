@@ -1,12 +1,12 @@
 ---
-title: "Webinar: Vida con apoyos. Avanzar en el derecho a la vida independiente"
+title: "Capacidad jurídica: un tema pendiente para la accesibilidad e inclusión social"
 categories:
   - Capsula
 tags:
   - derechos
   - investigación
   - inclusión
-last_modified_at: 2020-10-18T11:25:52-05:00
+last_modified_at: 2021-01-15T11:18:52-05:00
 ---
 
 <!-- 16:9 aspect ratio -->
