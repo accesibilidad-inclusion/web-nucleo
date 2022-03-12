@@ -20,7 +20,7 @@ email: accesibilidad-inclusion@ead.cl
 description: Núcleo de Accesibilidad e Inclusión PUCV
 slogan: Promoviendo espacios inclusivos
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: https://accesibilidad-inclusion.cl # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: http://accesibilidad-inclusion.cl # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Núcleo de Accesibilidad e Inclusión PUCV
   twitter:
