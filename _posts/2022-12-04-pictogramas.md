@@ -30,6 +30,7 @@ Esta nueva versión ha mejorado respecto de su claridad gráfica y la lógica de
   <a href="https://forms.gle/scneFqQggCQp1bMb8" title="Evalúa">Evaluar los pictogramas</a>
 </div>
 
-
+&nbsp;
+&nbsp;
 
 ¡Muchas gracias por ayudar y difundir!
