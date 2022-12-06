@@ -24,7 +24,7 @@ Un paso corresponde a una instrucción escrita en lenguaje claro y llano, sin te
 
 Esta nueva versión ha mejorado respecto de su claridad gráfica y la lógica de cómo se estructuran las 3 capas que permiten combinar y crear nuevos pictogramas.
 
-¡Pero necesitamos su ayuda para validarlos! Para saber si comunican correctamente las acciones. '''No te tomará más de 2 minutos''', para nosotros es muy importante.
+¡Pero necesitamos su ayuda para validarlos! Para saber si comunican correctamente las acciones. **No te tomará más de 2 minutos**, para nosotros es muy importante.
 
 <div class="button">[Evaluar los pictogramas](https://forms.gle/scneFqQggCQp1bMb8)</div>
 
