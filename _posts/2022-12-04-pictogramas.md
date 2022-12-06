@@ -13,7 +13,7 @@ last_modified_at: 2022-12-04T14:25:52-05:00
 
 Estamos felices de comunicarles que hemos lanzado una [nueva biblioteca de pictogramas](http://pictogramas.pictos.cl), que les invitamos a conocer y usar. 
 
-Esta biblioteca es la que usa [PICTOS](http://www.pictos.cl)) para definir el paso-a-paso de cada tarea 
+Esta biblioteca es la que usa [PICTOS](http://www.pictos.cl) para definir el paso-a-paso de cada tarea. 
 
 ### ¿Cómo se define un Paso?
 Un paso corresponde a una instrucción escrita en lenguaje claro y llano, sin tecnicismos ni jerga interna del servicio. Un paso se apoya visualmente con un pictograma y guarda una estrecha relación con él en su estructura, que consta de 3 componentes:
