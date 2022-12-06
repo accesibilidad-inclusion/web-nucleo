@@ -26,6 +26,8 @@ Esta nueva versión ha mejorado respecto de su claridad gráfica y la lógica de
 
 ¡Pero necesitamos su ayuda para validarlos! Para saber si comunican correctamente las acciones. **No te tomará más de 2 minutos**, para nosotros es muy importante.
 
-<div class="button">[Evaluar los pictogramas](https://forms.gle/scneFqQggCQp1bMb8)</div>
+<div class="button">
+  <a href="https://forms.gle/scneFqQggCQp1bMb8" title="Evalúa">Evaluar los pictogramas</a>
+</div>
 
-¡Muchas gracias!
+¡Muchas gracias por ayudar y difundir!
