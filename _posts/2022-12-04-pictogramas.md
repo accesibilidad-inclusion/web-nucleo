@@ -1,5 +1,5 @@
 ---
-title: "Pictogramas"
+title: "Nueva familia de Pictogramas para PICTOS"
 categories:
   - Herramientas
 tags:
