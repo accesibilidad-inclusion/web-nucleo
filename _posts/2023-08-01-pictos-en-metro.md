@@ -10,7 +10,7 @@ tags:
   - municipios
 last_modified_at: 2023-08-01T14:25:52-05:00
 ---
-
+![Logo Pictos]({{ site.baseurl}}/assets/img/posts/logo-pictos.png)
 Estimada comunidad PICTOS:
 
 ¡Nos alegra comunicarles que PICTOS está funcionando en Efe Valparaíso!
@@ -21,6 +21,8 @@ Desde PICTOS, los usuarios podrán conocer las tareas que pueden realizar en el 
 El lanzamiento se realizó el pasado viernes 23 de junio en la Estación Hospital de Efe Valparaíso, en donde asistieron autoridades de la Pontificia Universidad Católica de Valparaíso y de la empresa ferroviaria.
 
 El gerente general de Efe Valparaíso, Miguel Saavedra, comentó que "esta herramienta permite a nuestros pasajeros y pasajeras acceder de una manera más simple, fácil y explicativa a los distintos servicios que ofrecemos". De esta manera, también agregó que: "estamos muy contentos porque va en línea con nuestra política de dar más facilidad y accesibilidad a nuestros pasajeros, no sólo desde el punto de vista de nuestra infraestructura, sino que a través de estas herramientas tecnológicas que ayudan a que se sientan más cercanos a nuestro servicio".
+
+![Inauguración en metro: aparece el equipo del núcleo frente a la nueva señalética]({{ site.baseurl}}/assets/img/posts/pictos-metro.jpg)
 
 Herbert Spencer, director del proyecto PICTOS, mencionó que es muy importante socializar y visibilizar la cultura de apoyos que ofrece PICTOS como una “línea de base de accesibilidad” para las transacciones físicas de los servicios. Además "ahora estamos trabajando para liberar los apoyos digitales, fortaleciendo la accesibilidad web que, luego de la pandemia, demostró ser un factor de exclusión importante".
 
