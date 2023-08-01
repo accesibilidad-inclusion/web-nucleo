@@ -7,14 +7,16 @@ permalink: /nosotros
 
 <h2>Investigadores</h2>
 
-- Dra. **Vanessa Vega Córdova**, Escuela de Pedagogía 
-- Dr. **David Luza Cornejo**, Escuela de Arquitectura y Diseño
-- MDes **Herbert Spencer González**, Escuela de Arquitectura y Diseño
-- Dra. **Marcela Jarpa Azagra**, Escuela de Pedagogía
-- Mg. **Katherine Exss Cid**, Escuela de Arquitectura y Diseño
+- Dra. **Izaskun Álvarez-Aguado**, Facultad de Salud y Ciencias Sociales UDLA
+- MDes **Herbert Spencer González**, Escuela de Arquitectura y Diseño PUCV
+- Dra. **Vanessa Vega Córdova**, Escuela de Pedagogía PUCV 
+- Dra. **Marcela Jarpa Azagra**, Escuela de Pedagogía PUCV
+- Mg. **Katherine Exss Cid**, Escuela de Arquitectura y Diseño PUCV
+- Dr(c) **Félix González Carrasco**, Investigador Doctoral, Escuela de Psicología PUCV
 - Mg. **Andrea Montecinos Tota**, Escuela de Derecho
-- Dr. **Daniel Yunge Sepúlveda**, Escuela de Ingeniería Eléctrica
-- Dra. **Izaskun Álvarez-Aguado**, Investigadora Posdoctoral
+- **Renée Rodo Iunissi**, Escuela de Arquitectura y Diseño PUCV
+- Dr. **Felipe Muñoz Larrivera**, Escuela de Ingeniería Civil PUCV
+- Dr. **Rodrigo Herrera Valencia**, Escuela de Ingeniería Civil PUCV
 
 <h3>Red Internacional</h3>
 
