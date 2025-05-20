@@ -11,7 +11,7 @@ permalink: /nosotros
 - MDes **Herbert Spencer González**, Escuela de Arquitectura y Diseño PUCV
 - Dra. **Vanessa Vega Córdova**, Escuela de Pedagogía PUCV 
 - Dra. **Marcela Jarpa Azagra**, Escuela de Pedagogía PUCV
-- Mg. **Katherine Exss Cid**, Escuela de Arquitectura y Diseño PUCV
+- Dra. **Katherine Exss Cid**, Escuela de Arquitectura y Diseño PUCV
 - Dr(c) **Félix González Carrasco**, Investigador Doctoral, Escuela de Psicología PUCV
 - Mg. **Andrea Montecinos Tota**, Escuela de Derecho
 - **Renée Rodo Iunissi**, Escuela de Arquitectura y Diseño PUCV
