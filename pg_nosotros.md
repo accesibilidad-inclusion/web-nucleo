@@ -5,20 +5,25 @@ permalink: /nosotros
 
 ---
 
-<h2>Investigadores</h2>
+## Investigadores
 
-- Dra. **Izaskun Álvarez-Aguado**, Facultad de Salud y Ciencias Sociales UDLA
-- MDes **Herbert Spencer González**, Escuela de Arquitectura y Diseño PUCV
-- Dra. **Vanessa Vega Córdova**, Escuela de Pedagogía PUCV 
-- Dra. **Marcela Jarpa Azagra**, Escuela de Pedagogía PUCV
-- Dra. **Katherine Exss Cid**, Escuela de Arquitectura y Diseño PUCV
-- Dr(c) **Félix González Carrasco**, Investigador Doctoral, Escuela de Psicología PUCV
-- Mg. **Andrea Montecinos Tota**, Escuela de Derecho
-- **Renée Rodo Iunissi**, Escuela de Arquitectura y Diseño PUCV
-- Dr. **Felipe Muñoz Larrivera**, Escuela de Ingeniería Civil PUCV
-- Dr. **Rodrigo Herrera Valencia**, Escuela de Ingeniería Civil PUCV
+### Red PUCV
 
-<h3>Red Internacional</h3>
+-	Dra. **Vanessa Vega Córdova**, Escuela de Pedagogía PUCV, Directora
+-	MDes **Herbert Spencer González**, Escuela de Arquitectura y Diseño PUCV, Director Alterno
+-	Dra. **Marcela Jarpa Azagra**, Escuela de Pedagogía PUCV, Investigadora
+-	Dra. **Katherine Exss Cid**, Escuela de Arquitectura y Diseño PUCV, Investigadora
+-	Dr(c) **Félix González Carrasco**, Investigador Doctoral, Escuela de Psicología PUCV, Investigador
+-	Mg. **Andrea Montecinos Tota**, Escuela de Derecho, Investigador 
+-	Dr. **Felipe Muñoz La Rivera**, Escuela de Ingeniería Civil PUCV, Investigador 
+
+### Red Nacional
+
+-	Dra. **Izaskun Álvarez-Aguado,** Facultad de Salud y Ciencias Sociales UDLA, Investigadora
+- **Renée Rodo Iunissi**, Diseñadora
+- **[Instituto Milenio MICARE](https://www.micare.cl/)**
+
+### Red Internacional
 
 - Dra. **Maribel Cruz Ortiz**, Facultad de Enfermería, Universidad Autónoma de San Luis Potosí. México
 - Dra. **Carmen Pérez Rodríguez**, Facultad de Enfermería, Universidad Autónoma de San Luis Potosí. México
