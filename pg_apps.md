@@ -11,6 +11,8 @@ permalink: /apps
 	<img src='{{ site.baseurl }}/assets/img/pictos.png' title='PICTOS: accesibilidad con apoyos visuales'>
 </div>
 
+
+
 <strong>PICTOS</strong> es una herramienta para la accesibilidad cognitiva. Ayuda a que más personas comprendan mejor lo que deben hacer, paso a paso en los servicios de la ciudad.
 
 Ya está presente en más de <strong>100 lugares</strong> en <strong>más de 10 municipios</strong>, y hay más de <strong>700 apoyos visuales</strong> disponibles.  
@@ -20,6 +22,8 @@ Además, contamos con una herramienta <strong>de código abierto</strong> para c
 <div class="button">
 	<a href='https://pictos.cl' title='PICTOS: accesibilidad con apoyos visuales'>conoce PICTOS</a>
 </div>
+
+<hr class='divider'>
 
 
 <div class='logo'>
